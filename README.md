@@ -1,4 +1,4 @@
-CREATE A REACT COMPONENT IN ELEMENTOR WORDPRESS
+### CREATE A REACT COMPONENT IN ELEMENTOR WORDPRESS
 
 Open Visual Studio Code
 Go to File > Open Folder and select the folder where you created your React project.
