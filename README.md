@@ -4,7 +4,7 @@ Open Visual Studio Code
 Go to File > Open Folder and select the folder where you created your React project.
 
 To install it, open your terminal (command prompt) and run:
-### 'npm install -g create-react-app'
+### 'npx create-react-app my-react-app'
 
 In the project directory, you can run:
 ### `npm start`
